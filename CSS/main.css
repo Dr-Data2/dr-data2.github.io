@@ -1,3 +1,54 @@
+<<<<<<< HEAD
+:root{
+--primeryColor:#000000;
+--secundrycolor:#AFAFAF;
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+header{
+    display: flex;
+    height: 60px;
+    padding: 30px;
+}
+.logo img{
+    width: 50px;
+    height: 50px;
+    padding-right: 35px ;
+}
+.main_nav {
+    flex: 1;
+    padding-left: 150px;
+    word-spacing: 30px;
+}
+
+.main_nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.main_nav ul li {
+    display: inline-block;
+    font-size: 18px ;
+    font-weight: lighter;
+    padding: 15px 20px;
+}   
+.main_nav ul li a{
+    display: inline-block;
+    color:var(--secundrycolor);
+    padding: 30 15;
+}
+.rside img{
+    position: relative;
+    padding:0;
+    padding:0;
+    margin: 0;
+    width:450px ;
+    height:1074%;
+    
+}
+
+=======
 
 .header{
     display: flex;
@@ -26,3 +77,4 @@ header.nav{
     }
         
     
+>>>>>>> b2f2235dae698840e295febd4d045ba77e42c130
