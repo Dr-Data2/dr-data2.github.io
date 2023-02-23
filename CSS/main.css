@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 :root{
 --primeryColor:#000000;
 --secundrycolor:#AFAFAF;
@@ -24,6 +24,7 @@ header{
 
 .main_nav ul {
     list-style: none;
+    text-decoration:none ;
     margin: 0;
     padding: 0;
 }
@@ -48,7 +49,7 @@ header{
     
 }
 
-=======
+
 
 .header{
     display: flex;
@@ -77,4 +78,4 @@ header.nav{
     }
         
     
->>>>>>> b2f2235dae698840e295febd4d045ba77e42c130
+
